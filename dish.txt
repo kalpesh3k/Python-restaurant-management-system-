@@ -1,0 +1,11 @@
+501,Paneer Masala,190
+502,Tandoor roti,15
+503,Paneer Tikka,225
+504,Masala Dosa,65
+505,Plain Dosa,60
+506,Vada Sambhar,55
+507,Idali Sambhar,80
+508,Noodles,120
+509,Manchurian,110
+510,Water Bottle,25
+511,Cold Drinks,5044444,paneer kofta,300
